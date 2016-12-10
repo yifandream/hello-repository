@@ -6,4 +6,5 @@
 	echo 'master'
 	echo 'yi'
 	echo 'four'
+	echo 'fifth'
 ?>
